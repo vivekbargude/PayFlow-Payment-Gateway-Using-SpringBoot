@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5cc54b-90a4-451b-93c4-38cea7cb02f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/JacksonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/kafka/KafkaEventProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/paypal-clone.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transaction-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/service/TransactionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/service/TransactionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="6b5cc54b-90a4-451b-93c4-38cea7cb02f4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
