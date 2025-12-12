@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b5cc54b-90a4-451b-93c4-38cea7cb02f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/JacksonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/kafka/KafkaEventProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/paypal-clone.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transaction-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/JacksonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/JacksonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/kafka/KafkaEventProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/kafka/KafkaEventProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/service/TransactionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/service/TransactionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TransactionServiceApplication.executor": "Run",
-    "Application.UserServiceApplication.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Vivek/Java_Projects/paypal-clone",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TransactionServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Desktop/Vivek/Java_Projects/paypal-clone&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6b5cc54b-90a4-451b-93c4-38cea7cb02f4" name="Changes" comment="" />
