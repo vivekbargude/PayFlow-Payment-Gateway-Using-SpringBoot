@@ -1,0 +1,4 @@
+package com.paypal.transaction_service.kafka;
+
+public class KafkaEventProducer {
+}
