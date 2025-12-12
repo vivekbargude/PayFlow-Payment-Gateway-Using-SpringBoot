@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5cc54b-90a4-451b-93c4-38cea7cb02f4" name="Changes" comment="" />
+    <list default="true" id="6b5cc54b-90a4-451b-93c4-38cea7cb02f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/JacksonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/config/JacksonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/kafka/KafkaEventProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/java/com/paypal/transaction_service/kafka/KafkaEventProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/transaction-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +60,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "transaction-service",
     "last_opened_file_path": "C:/Users/LENOVO/Desktop/Vivek/Java_Projects/paypal-clone",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
